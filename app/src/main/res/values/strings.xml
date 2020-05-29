@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multipantalla</string>
+    <string name="tipoCelular">Celular</string>
+    <string name="vHorizontal">HORIZONTAL</string>
+    <string name="vVertical">VERTICAL</string>
+    <string name="pokemon1">Jigglypuff</string>
+    <string name="pokemon2">Meowth</string>
+    <string name="tablet">TABLET</string>
+    <string name="pokemon3">Evee</string>
+    <string name="pokemon4">Snorlax</string>
+</resources>
